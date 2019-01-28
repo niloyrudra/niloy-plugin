@@ -1,0 +1,17 @@
+{
+    "name": "niloy/niloy-plugin",
+    "description": "Awesome Starter Pugin example",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Niloy",
+            "email": "niloyrudra4249@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}

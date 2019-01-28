@@ -1,0 +1,11 @@
+@import './../node_modules/code-prettify/styles/desert.css';
+
+@import 'modules/tabs';
+@import 'modules/checkbox';
+@import 'modules/form';
+@import 'modules/cpt';
+@import 'modules/variables';
+
+main{ width: 100%; position: relative;
+    .container { position: relative; width: 100%; max-width: 1180px; margin: 0 auto; padding: 3em 0; }
+}
